@@ -1,0 +1,27 @@
+---
+body: ''
+content_type: resource
+draft: false
+file: /courses/test-site/test_video_4_transcript.pdf
+file_size: 3028
+file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Document
+title: test_video_4_transcript.pdf
+uid: 750e6907-ab76-414e-bec1-8518fe7a4b1a
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---
