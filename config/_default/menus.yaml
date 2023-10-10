@@ -1,0 +1,13 @@
+leftnav:
+- identifier: fa4c654e-a1ed-42e9-9fc2-42ea2653fdb5
+  name: Test Page
+  pageRef: /pages/test-page
+  weight: 10
+- identifier: b6761bfe-3167-4fe7-bc26-71eb8fc222c5
+  name: Test Video
+  pageRef: /resources/test
+  weight: 20
+- identifier: 52d92079-8108-48a9-9219-61e93dd08cbf
+  name: Section Page Fonts
+  pageRef: /pages/section-page-font
+  weight: 30
