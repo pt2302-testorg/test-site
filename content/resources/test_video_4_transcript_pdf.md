@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: test_video_4_transcript.pdf
-uid: 750e6907-ab76-414e-bec1-8518fe7a4b1a
+uid: a018e848-213a-49df-b028-15a810fe7128
 video_files:
   archive_url: ''
   video_captions_file: ''

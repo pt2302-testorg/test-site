@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: tiny-video.mp4
-uid: d128ed3c-ef31-43e0-82ce-a097399d21fb
+uid: e9516b00-bb38-48ff-b3c1-67641da279e5
 video_files:
   archive_url: ''
   video_captions_file: ''

@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: countdown_sample
-uid: 51006e7b-a593-4a46-b57d-0cc7a3d6806d
+uid: d907a53d-640a-4998-99f8-f848b5a0f74b
 video_files:
   archive_url: ''
   video_captions_file: ''

@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: example_transcript.pdf
-uid: ad448d31-2f1e-4172-aa4d-5d6b6494029b
+uid: 81b492c7-862b-4502-839f-337e8841fced
 video_files:
   archive_url: ''
   video_captions_file: ''

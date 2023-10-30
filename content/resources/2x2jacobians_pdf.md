@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/new_countdown_sample_transcript2.pdf
-file_size: 10622
+file: /courses/test-site/2x2jacobians.pdf
+file_size: 1010587
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: countdown_sample
-uid: 1ad4c4ee-d11b-4730-ab9f-496c2b5a522a
+title: 2x2Jacobians.pdf
+uid: 78f6bc57-1d1c-40b7-b0db-3bc3df2be878
 video_files:
   archive_url: ''
   video_captions_file: ''

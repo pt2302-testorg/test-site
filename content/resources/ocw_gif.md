@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: ocw.gif
-uid: d6094f51-cae1-4028-9202-f4a838a97b5d
+uid: b6cef82a-b346-4cc4-b4f8-08bc21e060fc
 video_files:
   archive_url: ''
   video_captions_file: ''

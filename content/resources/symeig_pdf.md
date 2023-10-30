@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/new_countdown_sample_transcript2.pdf
-file_size: 10622
+file: /courses/test-site/symeig.pdf
+file_size: 398206
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: countdown_sample
-uid: 1ad4c4ee-d11b-4730-ab9f-496c2b5a522a
+title: symeig.pdf
+uid: 3191af63-8130-452f-a2d4-b1d25e122f2b
 video_files:
   archive_url: ''
   video_captions_file: ''

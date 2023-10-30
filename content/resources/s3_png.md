@@ -2,18 +2,20 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/test_transcript.pdf
-file_type: application/pdf
+file: /courses/test-site/s3.png
+file_size: 14667
+file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: test_transcript.pdf
-uid: 32cd481e-f7cc-4165-a6bf-09717720363c
+resourcetype: Image
+title: s3.png
+uid: f123c87f-223c-4486-a0c1-8bcf65116865
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

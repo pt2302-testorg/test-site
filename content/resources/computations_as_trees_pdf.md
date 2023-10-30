@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/new_countdown_sample_transcript2.pdf
-file_size: 10622
+file: /courses/test-site/computations_as_trees.pdf
+file_size: 1474248
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: countdown_sample
-uid: 1ad4c4ee-d11b-4730-ab9f-496c2b5a522a
+title: Computations_as_Trees.pdf
+uid: 818e39c6-ebed-4e0f-b25c-5badc34afa1a
 video_files:
   archive_url: ''
   video_captions_file: ''

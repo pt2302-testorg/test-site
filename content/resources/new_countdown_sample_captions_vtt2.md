@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: new_countdown_sample_captions.vtt
-uid: c60c9db0-b268-4822-be8f-02fe75e84812
+uid: dcc7a950-aaaa-4fdb-b9bc-af76c5c59f3c
 video_files:
   archive_url: ''
   video_captions_file: ''

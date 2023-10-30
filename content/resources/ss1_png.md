@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/new_countdown_sample_transcript2.pdf
-file_size: 10622
-file_type: application/pdf
+file: /courses/test-site/ss1.png
+file_size: 31365
+file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: countdown_sample
-uid: 1ad4c4ee-d11b-4730-ab9f-496c2b5a522a
+resourcetype: Image
+title: ss1.png
+uid: d7109df6-1e75-49ab-a1a6-6267e1e0c787
 video_files:
   archive_url: ''
   video_captions_file: ''
