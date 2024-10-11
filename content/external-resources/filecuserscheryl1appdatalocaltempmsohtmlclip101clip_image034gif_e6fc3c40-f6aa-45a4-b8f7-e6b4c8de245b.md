@@ -1,0 +1,10 @@
+---
+backup_url: ''
+content_type: external-resource
+external_url: https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0
+has_external_license_warning: true
+is_broken: ''
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+title: '![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)'
+uid: e6fc3c40-f6aa-45a4-b8f7-e6b4c8de245b
+---
