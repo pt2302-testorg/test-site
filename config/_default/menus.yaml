@@ -11,3 +11,7 @@ leftnav:
   name: Section Page Fonts
   pageRef: /pages/section-page-font
   weight: 30
+- identifier: f46c94ba-751c-4f07-a701-6f3df836ccc5
+  name: apple
+  pageRef: /external-resources/google_f46c94ba-751c-4f07-a701-6f3df836ccc5
+  weight: 40
