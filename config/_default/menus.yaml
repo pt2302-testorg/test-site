@@ -9,5 +9,9 @@ leftnav:
   weight: 20
 - identifier: 52d92079-8108-48a9-9219-61e93dd08cbf
   name: Section Page Fonts
-  pageRef: /pages/section-page-font
+  pageRef: /pages/abcd
   weight: 30
+- identifier: fbf80289-c094-4123-8c32-6f30240ce47c
+  name: test-page3
+  pageRef: /pages/test-page3
+  weight: 40
