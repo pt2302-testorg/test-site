@@ -12,6 +12,6 @@ leftnav:
   pageRef: /pages/abcd
   weight: 30
 - identifier: fbf80289-c094-4123-8c32-6f30240ce47c
-  name: test-page4
-  pageRef: /pages/test-page4
+  name: test-page65
+  pageRef: /pages/test-page65
   weight: 40
